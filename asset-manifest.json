@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://mystmyst.github.io/csb-82do8e/static/css/main.80b1c6a6.chunk.css",
+    "main.js": "https://mystmyst.github.io/csb-82do8e/static/js/main.5d8ec6b2.chunk.js",
+    "main.js.map": "https://mystmyst.github.io/csb-82do8e/static/js/main.5d8ec6b2.chunk.js.map",
+    "runtime-main.js": "https://mystmyst.github.io/csb-82do8e/static/js/runtime-main.0a693907.js",
+    "runtime-main.js.map": "https://mystmyst.github.io/csb-82do8e/static/js/runtime-main.0a693907.js.map",
+    "static/js/2.7eb3ab7f.chunk.js": "https://mystmyst.github.io/csb-82do8e/static/js/2.7eb3ab7f.chunk.js",
+    "static/js/2.7eb3ab7f.chunk.js.map": "https://mystmyst.github.io/csb-82do8e/static/js/2.7eb3ab7f.chunk.js.map",
+    "index.html": "https://mystmyst.github.io/csb-82do8e/index.html",
+    "static/css/main.80b1c6a6.chunk.css.map": "https://mystmyst.github.io/csb-82do8e/static/css/main.80b1c6a6.chunk.css.map",
+    "static/js/2.7eb3ab7f.chunk.js.LICENSE.txt": "https://mystmyst.github.io/csb-82do8e/static/js/2.7eb3ab7f.chunk.js.LICENSE.txt",
+    "static/media/logo1.d05c6600.svg": "https://mystmyst.github.io/csb-82do8e/static/media/logo1.d05c6600.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a693907.js",
+    "static/js/2.7eb3ab7f.chunk.js",
+    "static/css/main.80b1c6a6.chunk.css",
+    "static/js/main.5d8ec6b2.chunk.js"
+  ]
+}
